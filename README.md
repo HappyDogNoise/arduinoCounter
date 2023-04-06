@@ -13,5 +13,6 @@ program that uses an arduino, 555 timer and a 4 digit 7-segment display to count
 - 1 LED any colour + the corresponding current limition resistor (I chose a yellow LED with a 220 Ω Resistor.
 '''
 
-
+'''
 ![alt text](https://github.com/HappyDogNoise/arduinoCounter/blob/main/counter.jpg)
+'''
